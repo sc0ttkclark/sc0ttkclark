@@ -14,7 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: sc0ttkclark
           template: classic
